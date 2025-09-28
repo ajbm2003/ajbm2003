@@ -58,9 +58,9 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
   <!-- Contacto -->
   <h2>Contacto</h2>
   <ul>
-    <li>Email: <a href="alejobenavides2003@gmail.com">tucorreo@example.com</a></li>
-    <li>GitHub: <a href="https://github.com/ajbm2003">github.com/tunombre</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-benavides-848503265/">linkedin.com/in/tunombre</a></li>
+    <li>Email: <a href="alejobenavides2003@gmail.com">alejobenavides2003@gmail.com</a></li>
+    <li>GitHub: <a href="https://github.com/ajbm2003">https://github.com/ajbm2003</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-benavides-848503265/">https://www.linkedin.com/in/alejandro-benavides-848503265/</a></li>
   </ul>
 
 </body>
