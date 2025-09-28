@@ -10,7 +10,7 @@
 </div>
   <!-- Encabezado con imagen y nombre -->
   <div align="center">
-    <img src="https://imgur.com/LyGpiqg.jpg?auto=compress&cs=tinysrgb&w=600" 
+    <img src="https://raw.githubusercontent.com/ajbm2003/ajbm2003/refs/heads/main/file.svg?auto=compress&cs=tinysrgb&w=600" 
          alt="Perro Malinois con lentes" 
          width="300" height="300" style="border-radius: 50%; border: 3px solid #007acc;">
     <h1>Alejandro Benavides</h1>
