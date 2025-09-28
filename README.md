@@ -42,7 +42,7 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
   <ul>
     <li><strong>Ingeniería en Ciencia de Datos</strong> - Universidad de Palermo (Buenos Aires, Argentina. 2022 - actualidad)</li>
     <li><strong>Bootcamp Full-Stack</strong> - Academlo (2023)</li>
-    <li><strong>Economía</strong> - Escuela Politecnica Nacional (Quito, Ecuador. 2025 - actualidad)</li>
+    <li><strong>Economía</strong> - Escuela Politécnica Nacional (Quito, Ecuador. 2025 - actualidad)</li>
   </ul>
 
   <hr>
