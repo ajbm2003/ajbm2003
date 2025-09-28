@@ -4,18 +4,21 @@
 
 </head>
 <body>
-<div align="center" width="150">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
-</div>
-  <!-- Encabezado con imagen y nombre -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/ajbm2003/ajbm2003/main/imagen-removebg-preview.png?auto=compress&cs=tinysrgb&w=600" 
-         alt="Perro Malinois con lentes" 
-         width="300" height="300" style="border-radius: 50%; border: 3px solid #007acc;">
-    <h1>Alejandro Benavides</h1>
-    <p><em>Desarrollador y Analista de datos | Amante de los perros en espacial de mi malinois 🐶💻</em></p>
+<div style="position: relative; width: 300px; height: 300px;">
+  <div align="center" width="150" style="position: absolute; top: 0; left: 0; z-index: 1;" >
+    <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+    alt="header" style="position: absolute; top: 0; left: 0; z-index: 1;"/>
+    <img src="https://raw.githubusercontent.com/ajbm2003/ajbm2003/main/imagen-removebg-preview.png?auto=compress&cs=tinysrgb&w=600"  tengo asi mi codigo como hago que suba la imagen y se ponga sobre la otra imagen
+           alt="Perro Malinois con lentes" 
+           width="300" height="300" style="position: absolute; top: 20px; left: 25px; z-index: 2; border-radius: 10px;">
+    </div>
   </div>
+    <!-- Encabezado con imagen y nombre -->
+    <div align="center" style="position: absolute; top: 0; left: 0; z-index: 2;">
+      
+  <h1>Alejandro Benavides</h1>
+      <p><em>Desarrollador y Analista de datos | Amante de los perros en especial de mi malinois 🐶💻</em></p>
+    </div>
 
   <hr>
 
@@ -30,7 +33,6 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
 🔍 En mi proceso de aprendizaje, trabajo constantemente en proyectos personales que combinan análisis de datos, automatización y desarrollo frontend/backend.
 💡 Siempre abierto a colaborar, aprender nuevas tecnologías y compartir conocimiento.
 
-✨ Tecnologías que uso: Python, JavaScript, HTML/CSS, Git, y herramientas de análisis y visualización de datos.
   </p>
 
   <hr>
@@ -38,9 +40,9 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
   <!-- Educación -->
   <h2>Educación</h2>
   <ul>
-    <li><strong>Ingeniería en Sistemas</strong> - Universidad Tecnológica (2020 - 2024)</li>
-    <li><strong>Bootcamp Full-Stack</strong> - Academia DevX (2023)</li>
-    <li><strong>Certificación en Ciberseguridad</strong> - Coursera (2022)</li>
+    <li><strong>Ingeniería en Ciencia de Datos</strong> - Universidad de Palermo (Buenos Aires, Argentina. 2022 - actualidad)</li>
+    <li><strong>Bootcamp Full-Stack</strong> - Academlo (2023)</li>
+    <li><strong>Economía</strong> - Escuela Politecnica Nacional (Quito, Ecuador. 2025 - actualidad)</li>
   </ul>
 
   <hr>
@@ -48,7 +50,7 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
   <!-- Tecnologías -->
   <h2>Tecnologías</h2>
   <p>
-    JavaScript, TypeScript, Python, Node.js, React, Next.js, Git, GitHub, Docker, SQL, MongoDB, HTML, CSS.
+   ✨ Tecnologías que uso: Python, JavaScript,  Node.js, React, Next.js, Git, GitHub, Java, SQL, MongoDB, HTML, CSS.
   </p>
 
   <hr>
@@ -56,14 +58,10 @@ Actualmente estoy desarrollando mis habilidades en Python y JavaScript, con expe
   <!-- Contacto -->
   <h2>Contacto</h2>
   <ul>
-    <li>Email: <a href="mailto:tucorreo@example.com">tucorreo@example.com</a></li>
-    <li>GitHub: <a href="https://github.com/tunombre">github.com/tunombre</a></li>
-    <li>LinkedIn: <a href="https://linkedin.com/in/tunombre">linkedin.com/in/tunombre</a></li>
+    <li>Email: <a href="alejobenavides2003@gmail.com">tucorreo@example.com</a></li>
+    <li>GitHub: <a href="https://github.com/ajbm2003">github.com/tunombre</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/alejandro-benavides-848503265/">linkedin.com/in/tunombre</a></li>
   </ul>
-
-  <footer align="center">
-    <small>&copy; 2025 Tu Nombre. Todos los derechos reservados.</small>
-  </footer>
 
 </body>
 </html>
